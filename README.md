@@ -20,5 +20,4 @@ Algoritmo desarrollado para la evaluacion de calidad de imagen de retina.
       - cL  : Circulo con la parte interior de la circunferencia = 1 y la parte exterior en = 0. 
       - cH  : Circulo con la parte exterior de la circunferencia = 1 y la parte interior en = 1.
               
-3. algoritmo.m
-      Algoritmo con las diferentes etapas de procesamiento descritas en el documento.
+3. algoritmo.m: Algoritmo con las diferentes etapas de procesamiento descritas en el documento.
